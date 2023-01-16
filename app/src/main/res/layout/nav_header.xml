@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="150dp"
     android:gravity="bottom"
-    android:background="@color/button"
+    android:background="@color/Green"
     android:theme="@style/ThemeOverlay.AppCompat.Dark"
     android:padding="16dp"
     android:orientation="vertical">
@@ -12,7 +12,7 @@
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_gravity="center"
-        android:src="@mipmap/cat"/>
+        android:src="@mipmap/avatar"/>
 
     <TextView
         android:id="@+id/tvUSer"
@@ -24,6 +24,6 @@
         android:textSize="20sp"
         android:fontFamily="serif-monospace"
         android:textStyle="bold"
-        android:textColor="@color/bufont" />
+        android:textColor="@color/black" />
 
 </LinearLayout>

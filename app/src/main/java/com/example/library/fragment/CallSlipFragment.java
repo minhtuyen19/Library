@@ -1,4 +1,6 @@
 package com.example.library.fragment;
 
-public class CallSlipFragment {
+import androidx.fragment.app.Fragment;
+
+public class CallSlipFragment extends Fragment {
 }

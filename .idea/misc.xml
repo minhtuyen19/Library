@@ -3,10 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/codeJava/LibrarySystem/app/src/main/res/drawable-anydpi/ic_action_menu.xml" value="0.1" />
+        <entry key="..\:/codeJava/LibrarySystem/app/src/main/res/drawable-anydpi/ic_action_quanlyphieumuon.xml" value="0.225" />
+        <entry key="..\:/codeJava/LibrarySystem/app/src/main/res/drawable/add.xml" value="0.1" />
+        <entry key="..\:/codeJava/LibrarySystem/app/src/main/res/drawable/border.xml" value="0.1" />
+        <entry key="..\:/codeJava/LibrarySystem/app/src/main/res/drawable/ic_baseline_cancel_.xml" value="0.1975" />
         <entry key="..\:/codeJava/LibrarySystem/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.2235" />
         <entry key="..\:/codeJava/LibrarySystem/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.1" />
         <entry key="..\:/codeJava/LibrarySystem/app/src/main/res/layout/activity_log_in.xml" value="0.264" />
+        <entry key="..\:/codeJava/LibrarySystem/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/codeJava/LibrarySystem/app/src/main/res/layout/activity_welcome.xml" value="0.27447916666666666" />
+        <entry key="..\:/codeJava/LibrarySystem/app/src/main/res/layout/fragment_phieu_muon.xml" value="0.17395833333333333" />
+        <entry key="..\:/codeJava/LibrarySystem/app/src/main/res/layout/nav_header.xml" value="0.2734375" />
+        <entry key="..\:/codeJava/LibrarySystem/app/src/main/res/layout/phieu_muon_item.xml" value="0.27447916666666666" />
+        <entry key="..\:/codeJava/LibrarySystem/app/src/main/res/layout/toolbar.xml" value="0.2734375" />
+        <entry key="..\:/codeJava/LibrarySystem/app/src/main/res/menu/draw.xml" value="0.264" />
       </map>
     </option>
   </component>
