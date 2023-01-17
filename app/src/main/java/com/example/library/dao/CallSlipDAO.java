@@ -1,5 +1,6 @@
 package com.example.library.dao;
 
+import android.annotation.SuppressLint;
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
@@ -51,6 +52,7 @@ public class CallSlipDAO {
         List<CallSlip>list=getData(sql,id);
         return list.get(0);
     }
+    @SuppressLint("Range")
     private List<CallSlip> getData(String sql, String...selectionArgs){
         List<CallSlip>list=new ArrayList<>();
         Cursor cursor=db.rawQuery(sql,selectionArgs);
